@@ -1,4 +1,4 @@
-﻿__pycache__/
+__pycache__/
 .venv/
 .env
-*.json
+service-account.json
